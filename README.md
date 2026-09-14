@@ -1,10 +1,10 @@
 # Geet Khosla
 
-Founder of [Khosla Lab](https://khoslalab.com). I love building tools.
+Founder of [Khosla Lab](https://khoslalab.com). I love building beautiful tools.
 
 ## Khosla Lab
 
-[khoslalab.com](https://khoslalab.com) — a small lab for frontier models, production loops, and keeping control.
+[khoslalab.com](https://khoslalab.com) — a small lab focused on exploring frontier intelligence systems.
 
 ## Tools
 
