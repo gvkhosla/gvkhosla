@@ -1,6 +1,6 @@
 # Geet Khosla
 
-Founder of [Khosla Lab](https://khoslalab.com). I love building beautiful tools.
+Founder of [Khosla Lab](https://khoslalab.com).
 
 ## Khosla Lab
 
