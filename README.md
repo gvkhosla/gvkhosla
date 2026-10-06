@@ -1,6 +1,6 @@
 # Geet Khosla
 
-Founder of [Khosla Lab](https://khoslalab.com)
+Founder at [Khosla Lab](https://khoslalab.com)
 
 ## Khosla Lab
 
