@@ -1,10 +1,10 @@
 # Geet Khosla
 
-Founder of [Khosla Lab](https://khoslalab.com).
+Founder of [Khosla Lab](https://khoslalab.com)
 
 ## Khosla Lab
 
-[khoslalab.com](https://khoslalab.com) — a small lab focused on exploring frontier intelligence systems.
+[khoslalab.com](https://khoslalab.com) — a small lab focused on exploring frontier intelligence systems
 
 ## Tools
 
